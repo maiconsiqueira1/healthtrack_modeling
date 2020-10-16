@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="healthtrack" id="1EFF57E8-6AA6-D603-D103-4F0F741C8DC4" version="3.5">
+<createdBy>murilo</createdBy>
+<createdTime>2020-10-15 18:06:13 UTC</createdTime>
+<ownerDesignName>healthtrack</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>1EFF57E8-6AA6-D603-D103-4F0F741C8DC4</designId>
+</OSDM_Design>
